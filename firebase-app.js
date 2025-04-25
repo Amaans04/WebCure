@@ -3,13 +3,13 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/11.6.0/firebas
 import { getFirestore, collection, addDoc } from "https://www.gstatic.com/firebasejs/11.6.0/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDn9r1cZyYBxb8pYCauPN43_1NTcFhlCXQ",
-  authDomain: "featherwood-ed786.firebaseapp.com",
-  projectId: "featherwood-ed786",
-  storageBucket: "featherwood-ed786.firebasestorage.app",
-  messagingSenderId: "527110619279",
-  appId: "1:527110619279:web:de9eb63b883be68a27f0fa",
-  measurementId: "G-G4FPE1EJMN"
+  apiKey: "sorry_darling",
+  authDomain: "sorry_darling",
+  projectId: "sorry_darling",
+  storageBucket: "sorry_darling",
+  messagingSenderId: "sorry_darling",
+  appId: "sorry_darling",
+  measurementId: "sorry_darling"
 };
 
 const app = initializeApp(firebaseConfig);
