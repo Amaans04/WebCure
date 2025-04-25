@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Form Capture Extension",
+  "version": "1.0",
+  "description": "Capture form input and save to Firebase",
+  "permissions": ["scripting", "activeTab"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
