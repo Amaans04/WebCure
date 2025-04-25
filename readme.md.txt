@@ -1,6 +1,6 @@
 If you check out the code, it’s honestly just a simple web extension that can be installed and run on any Chromium-based browser. I originally built it for my own convenience.
 
-Backstory
+Backstory:
 During my 2nd year, 4th semester (which is actually ending tomorrow—April 29th, 2025), I found myself losing interest in college. Between my internship and developing new interests, classes started to feel… well, pointless. I’ll be real—I got lazy for almost half the semester. Because of that, my attendance dropped pretty badly.
 
 At Alliance University, we have a strict 75% attendance rule to be eligible for End-Semester exams. I was barely touching 60% in most subjects. Professors usually marked attendance through a web app, mostly by scanning a QR code (now there's an app too, but let’s focus on the web-based system).
