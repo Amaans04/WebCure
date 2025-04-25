@@ -19,4 +19,4 @@ Look, I know it wasn’t exactly the right thing to do. But come on—getting a 
 
 I managed to collect enough professor logins and updated my attendance to the 90s—no one ever suspected a thing. Out of fear of getting caught though, I eventually deleted the extension from the two systems I had it installed on.
 
-```Okay yaa my grammar is fucked up so ChatGPT formatted some stuff for me.
+```Okay yaa my grammar is messed up so ChatGPT formatted some stuff for me.
